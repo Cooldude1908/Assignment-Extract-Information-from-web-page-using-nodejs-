@@ -18,5 +18,13 @@
     "xmlserializer": "^0.6.1",
     "xpath": "^0.0.32"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cooldude1908/Assignment-Extract-Information-from-web-page-using-nodejs-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cooldude1908/Assignment-Extract-Information-from-web-page-using-nodejs-/issues"
+  },
+  "homepage": "https://github.com/Cooldude1908/Assignment-Extract-Information-from-web-page-using-nodejs-#readme"
 }
